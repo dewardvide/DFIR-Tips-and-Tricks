@@ -27,7 +27,7 @@ Further details can be found Microsoft's [Instructional documentation](https://l
 ```
 
 >*This example is derived from [Microsoft Documentation](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-sample-configuration)*
-#### Config Breakdown
+#### .wsb Config File Breakdown
 
 `<Configuration>`
 
